@@ -1,4 +1,4 @@
-package com.audiostream.client;
+package com.audiostream.app.client;
 
 import java.net.URI;
 import java.nio.ByteBuffer;

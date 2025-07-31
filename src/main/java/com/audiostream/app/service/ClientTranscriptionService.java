@@ -1,8 +1,11 @@
-package com.audiostream.client;
+package com.audiostream.app.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
+
+import com.audiostream.app.client.AudioWebSocketClient;
+import com.audiostream.app.helper.MicrophoneAudioCapture;
 
 @Service
 public class ClientTranscriptionService {

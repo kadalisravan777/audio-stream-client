@@ -1,4 +1,4 @@
-package com.audiostream.client;
+package com.audiostream.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
