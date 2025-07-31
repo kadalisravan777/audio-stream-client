@@ -1,0 +1,5 @@
+com\audiostream\client\ClientApplication.class
+com\audiostream\client\AudioWebSocketClient.class
+com\audiostream\client\ClientController.class
+com\audiostream\client\ClientTranscriptionService.class
+com\audiostream\client\MicrophoneAudioCapture.class
